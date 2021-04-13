@@ -1,4 +1,4 @@
-package com.example.lizzard.web.sto;
+package com.example.lizzard.web.dto;
 
 public class UserRegistrationDto {
     private String firstName;
